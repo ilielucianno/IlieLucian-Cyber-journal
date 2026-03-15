@@ -1,0 +1,45 @@
+# 🎨 Color-Based Authentication - A Cybersecurity Idea
+
+**Author**: Lucian  
+**Date**: March 2026  
+**Context**: Idea born from discussions about current 2FA limitations
+
+## 🤔 The Problem
+
+Current authentication methods have vulnerabilities:
+- SMS 2FA - interceptable
+- Authenticator apps - device-dependent
+- Biometric - can be compromised
+- Classic passwords - hard to remember, easy to brute force
+
+## 💡 Proposed Solution
+
+**Color-based authentication + classic password**
+
+The concept:
+1. When creating an account, user gets an 8×8 color grid
+2. User chooses a sequence of 3 colors (ex: green-green-red or yellow-purple-black)
+3. The color sequence is stored separately from the classic password
+4. During login, after password, user selects the correct color sequence
+
+### 🔒 Security Advantages
+- Easy for humans to remember (visual memory)
+- Hard to brute force (large combinatorial space)
+- Layer separation: password in one packet, colors in another, encrypted differently
+- Even if password is compromised, attacker still needs the color sequence
+
+## 🧪 Questions to Explore
+- How do we protect color transmission between client and server?
+- What encryption algorithm for the color packet?
+- How to prevent shoulder surfing?
+- Practical testing: how easy is it to break with an automated script?
+
+## 🔗 Links & Resources
+- Original discussion on DeepSeek
+- [Research on graphical passwords](https://en.wikipedia.org/wiki/Graphical_password)
+- [Visual authentication studies]
+
+## 📌 Future Notes
+- Test resistance to brute-force attacks
+- Calculate entropy for 8×8 grid with 16 colors
+- Possible extension: short animations instead of static colors
