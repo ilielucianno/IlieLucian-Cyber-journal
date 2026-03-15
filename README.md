@@ -7,6 +7,7 @@ Welcome to my personal cybersecurity repository! Here I document ideas, question
 | File | Description |
 |------|-------------|
 | [colour-auth-idea.md](colour-auth-idea.md) | My color-based authentication concept |
+| [aes256-future-security.md](aes256-future-security.md) | Deep analysis of AES-256 security |
 
 ## 🧠 Current ideas being explored
 
