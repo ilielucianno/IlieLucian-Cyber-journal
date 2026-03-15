@@ -13,6 +13,8 @@ Welcome to my personal cybersecurity repository! Here I document ideas, question
 ## 🧠 Current ideas being explored
 
 - ✅ Color-based 2FA (first draft)
+- ✅ Deep analysis of AES-256 security
+- ✅ Complete Benny platform concept - social network + cryptocurrency
 - 🔄 More ideas coming as I learn...
 
 ## 🔗 Connect with me
