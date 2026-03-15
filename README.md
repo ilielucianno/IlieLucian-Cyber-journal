@@ -15,5 +15,5 @@ Welcome to my personal cybersecurity repository! Here I document ideas, question
 
 ## 🔗 Connect with me
 
-- GitHub: [@Yilielucianno]
+- GitHub: [@ilielucianno]
 - TryHackMe: [ilielucianno]
