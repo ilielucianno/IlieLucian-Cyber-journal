@@ -17,6 +17,12 @@ Welcome to my personal cybersecurity repository! Here I document ideas, question
 - ✅ Complete Benny platform concept - social network + cryptocurrency
 - 🔄 More ideas coming as I learn...
 
+## 🧠 About Me
+
+I've been passionate about technology and technology connected since 1995, when I started with HC2000, QBasic, and Turbo Pascal. 
+Now I'm channeling that experience into cybersecurity, with a focus on creative problem-solving and 
+deep technical understanding.
+
 ## 🔗 Connect with me
 
 - GitHub: [@ilielucianno]
