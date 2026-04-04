@@ -81,4 +81,4 @@ deep technical understanding.
 
 - GitHub: [@ilielucianno](https://github.com/ilielucianno)
 - TryHackMe: ilielucianno
-- LinkedIn: [Ilie Lucian](https://www.linkedin.com/in/ilie-lucian-)
+- LinkedIn: [Ilie Lucian](https://www.linkedin.com/in/ilielucian)
