@@ -51,7 +51,7 @@ This is where I dump my cybersecurity thoughts, questions, and "what if" scenari
 - Zero Trust implementation for small office
 - Cloud security (Azure) notes
 - More authentication method ideas
-- CompTIA Security+ exam (planned 2026)
+- CompTIA Security+ exam (bought planned May 2026)
 
 ---
 
