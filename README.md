@@ -41,7 +41,7 @@ This is where I dump my cybersecurity thoughts, questions, and "what if" scenari
 
 | Platform | Course | Status |
 |----------|--------|--------|
-| CompTIA | Security+ | 🔄 In progress 50^% |
+| CompTIA | Security+ | 🔄 In progress 50% |
 | CompTIA | Network+ | 🔄 In progress |
 
 ---
