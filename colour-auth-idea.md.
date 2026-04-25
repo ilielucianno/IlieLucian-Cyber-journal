@@ -31,7 +31,7 @@ The concept:
 ## 🧪 Questions to Explore
 - How do we protect color transmission between client and server?
 - What encryption algorithm for the color packet?
-- How to prevent shoulder surfing?
+- How to prevent shoulder surfing? SAMSUNG Displays?
 - Practical testing: how easy is it to break with an automated script?
 
 ## 🔗 Links & Resources
