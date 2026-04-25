@@ -11,6 +11,7 @@ Welcome to my personal cybersecurity repository! Here I document ideas, question
 | [colour-auth-idea.md](colour-auth-idea.md.) | My color-based authentication concept |
 | [aes256-future-security.md](aes256-future-security.md) | Deep analysis of AES-256 security |
 | [benny-social-network-idea.md](benny-social-network-idea.md) | Complete Benny platform concept - social network + cryptocurrency |
+| [time-based-ephemeral-crypto-idea.md](time-based-ephemeral-crypto-idea.md) | Time‑based ephemeral crypto concept (key changes every 30s, never transmitted) |
 
 ---
 
@@ -59,7 +60,7 @@ This is where I dump my cybersecurity thoughts, questions, and "what if" scenari
 - ✅ Color-based 2FA (first draft)
 - ✅ Deep analysis of AES-256 security
 - ✅ Complete Benny platform concept - social network + cryptocurrency
-- 🔄 More ideas coming as I learn...
+- 🔄 Time‑based ephemeral crypto (key changes every 30s, never transmitted)
 
 ---
 
